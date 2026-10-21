@@ -1,1 +1,1 @@
-http://dikzpanel.digitalocean-cloud.my.id:4360
+http://dikzpanelprivate.pterocloud.my.id:3861
